@@ -1,0 +1,31 @@
+#String
+Arvi = "Si arvi"
+Harvey = "Si harvey"
+Bravo = "Si bravo"
+
+#Numerical Value
+Sukat_Ng_Utak = "5"
+
+#Arithmetic
+addition = 5 + 5
+subtraction = 5 - 5
+division = 5 / 5
+multiplication = 5 * 5
+mudulus = 5 % 5
+
+print (addition)
+print (subtraction)
+print (division)
+print (multiplication)
+print (mudulus)
+print (Arvi)
+print ( Harvey)
+print (Bravo)
+print (Sukat_Ng_Utak)
+
+if addition > division:
+    print (" HAHAHA ")
+elif multiplication < mudulus:
+    print( " HEHEHEHE " )
+else :
+    print (" HIHIHIUHIH ")
